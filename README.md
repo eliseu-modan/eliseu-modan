@@ -103,7 +103,7 @@ Unicesumar – EAD
 
 ## 📬 Entre em Contato
 
-* 💻 GitHub: *(https://github.com/eliseu-modan/eliseu-modan)*
+* 💻 GitHub: *(https://github.com/eliseu-modan)*
 * 💼 LinkedIn: *(https://linkedin.com/in/eliseu-junior-b4801a1b6)*
 * 📧 Email: *(eliseuservice14@gmail.com)*
 
