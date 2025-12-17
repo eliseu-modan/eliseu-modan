@@ -7,7 +7,7 @@ Me chamo **Eliseu Modanesi Júnior**, sou de **Jundiaí – SP**, **formado em E
 Tenho foco em **desenvolvimento web moderno**, trabalhando principalmente com **React, Next.js, Node.js, NestJS e TypeScript**, sempre aplicando **Clean Code**, **boas práticas**, **arquitetura modular** e **testes automatizados** para entregar soluções escaláveis e bem estruturadas.
 
 ---
-
+ 
 ## 🚧 Atualmente
 
 * Atuação na **evolução e manutenção de ERP corporativo**
